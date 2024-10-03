@@ -1,0 +1,112 @@
+{"index": {"_index": "user3"}}
+{"activity": "sleep", "start_time": "2024-07-05T02:02:00", "end_time": "2024-07-05T05:45:00", "ini_interval": 2, "fin_interval": 225, "duracion": 223}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T05:46:00", "end_time": "2024-07-05T05:48:00", "ini_interval": 226, "fin_interval": 228, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "sleep", "start_time": "2024-07-05T05:49:00", "end_time": "2024-07-05T10:01:00", "ini_interval": 229, "fin_interval": 481, "duracion": 252}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T10:04:00", "end_time": "2024-07-05T10:04:00", "ini_interval": 484, "fin_interval": 484, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T10:11:00", "end_time": "2024-07-05T10:11:00", "ini_interval": 491, "fin_interval": 491, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T10:12:00", "end_time": "2024-07-05T10:14:00", "ini_interval": 492, "fin_interval": 494, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T10:15:00", "end_time": "2024-07-05T10:18:00", "ini_interval": 495, "fin_interval": 498, "duracion": 3}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T10:20:00", "end_time": "2024-07-05T10:22:00", "ini_interval": 500, "fin_interval": 502, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T10:24:00", "end_time": "2024-07-05T10:25:00", "ini_interval": 504, "fin_interval": 505, "duracion": 1}
+{"index": {"_index": "user3"}}
+{"activity": "exit", "start_time": "2024-07-05T10:30:00", "end_time": "2024-07-05T11:51:00", "ini_interval": 510, "fin_interval": 591, "duracion": 81}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T11:52:00", "end_time": "2024-07-05T12:17:00", "ini_interval": 592, "fin_interval": 617, "duracion": 25}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T12:18:00", "end_time": "2024-07-05T12:42:00", "ini_interval": 618, "fin_interval": 642, "duracion": 24}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T12:43:00", "end_time": "2024-07-05T12:44:00", "ini_interval": 643, "fin_interval": 644, "duracion": 1}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T12:45:00", "end_time": "2024-07-05T12:51:00", "ini_interval": 645, "fin_interval": 651, "duracion": 6}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T12:54:00", "end_time": "2024-07-05T12:55:00", "ini_interval": 654, "fin_interval": 655, "duracion": 1}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T12:56:00", "end_time": "2024-07-05T13:01:00", "ini_interval": 656, "fin_interval": 661, "duracion": 5}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T13:02:00", "end_time": "2024-07-05T13:02:00", "ini_interval": 662, "fin_interval": 662, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T13:03:00", "end_time": "2024-07-05T13:04:00", "ini_interval": 663, "fin_interval": 664, "duracion": 1}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T13:05:00", "end_time": "2024-07-05T13:09:00", "ini_interval": 665, "fin_interval": 669, "duracion": 4}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T13:10:00", "end_time": "2024-07-05T13:39:00", "ini_interval": 670, "fin_interval": 699, "duracion": 29}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T13:40:00", "end_time": "2024-07-05T14:00:00", "ini_interval": 700, "fin_interval": 720, "duracion": 20}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T14:01:00", "end_time": "2024-07-05T14:04:00", "ini_interval": 721, "fin_interval": 724, "duracion": 3}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T14:05:00", "end_time": "2024-07-05T14:09:00", "ini_interval": 725, "fin_interval": 729, "duracion": 4}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T14:10:00", "end_time": "2024-07-05T14:12:00", "ini_interval": 730, "fin_interval": 732, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T14:13:00", "end_time": "2024-07-05T14:17:00", "ini_interval": 733, "fin_interval": 737, "duracion": 4}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T14:18:00", "end_time": "2024-07-05T14:18:00", "ini_interval": 738, "fin_interval": 738, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T14:21:00", "end_time": "2024-07-05T14:44:00", "ini_interval": 741, "fin_interval": 764, "duracion": 23}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T14:46:00", "end_time": "2024-07-05T14:49:00", "ini_interval": 766, "fin_interval": 769, "duracion": 3}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T14:55:00", "end_time": "2024-07-05T14:55:00", "ini_interval": 775, "fin_interval": 775, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T14:59:00", "end_time": "2024-07-05T15:01:00", "ini_interval": 779, "fin_interval": 781, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T15:02:00", "end_time": "2024-07-05T15:13:00", "ini_interval": 782, "fin_interval": 793, "duracion": 11}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T15:14:00", "end_time": "2024-07-05T15:30:00", "ini_interval": 794, "fin_interval": 810, "duracion": 16}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T15:35:00", "end_time": "2024-07-05T15:35:00", "ini_interval": 815, "fin_interval": 815, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T15:36:00", "end_time": "2024-07-05T15:45:00", "ini_interval": 816, "fin_interval": 825, "duracion": 9}
+{"index": {"_index": "user3"}}
+{"activity": "exit", "start_time": "2024-07-05T15:54:00", "end_time": "2024-07-05T19:57:00", "ini_interval": 834, "fin_interval": 1077, "duracion": 243}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T20:07:00", "end_time": "2024-07-05T20:16:00", "ini_interval": 1087, "fin_interval": 1096, "duracion": 9}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T20:17:00", "end_time": "2024-07-05T20:59:00", "ini_interval": 1097, "fin_interval": 1139, "duracion": 42}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T21:00:00", "end_time": "2024-07-05T21:06:00", "ini_interval": 1140, "fin_interval": 1146, "duracion": 6}
+{"index": {"_index": "user3"}}
+{"activity": "kitchen", "start_time": "2024-07-05T21:07:00", "end_time": "2024-07-05T21:13:00", "ini_interval": 1147, "fin_interval": 1153, "duracion": 6}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T21:14:00", "end_time": "2024-07-05T21:29:00", "ini_interval": 1154, "fin_interval": 1169, "duracion": 15}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T21:30:00", "end_time": "2024-07-05T21:58:00", "ini_interval": 1170, "fin_interval": 1198, "duracion": 28}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T21:59:00", "end_time": "2024-07-05T22:01:00", "ini_interval": 1199, "fin_interval": 1201, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T22:02:00", "end_time": "2024-07-05T22:06:00", "ini_interval": 1202, "fin_interval": 1206, "duracion": 4}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T22:07:00", "end_time": "2024-07-05T22:09:00", "ini_interval": 1207, "fin_interval": 1209, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T22:10:00", "end_time": "2024-07-05T22:25:00", "ini_interval": 1210, "fin_interval": 1225, "duracion": 15}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T22:26:00", "end_time": "2024-07-05T22:34:00", "ini_interval": 1226, "fin_interval": 1234, "duracion": 8}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T22:35:00", "end_time": "2024-07-05T22:42:00", "ini_interval": 1235, "fin_interval": 1242, "duracion": 7}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T22:43:00", "end_time": "2024-07-05T23:30:00", "ini_interval": 1243, "fin_interval": 1290, "duracion": 47}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-05T23:31:00", "end_time": "2024-07-05T23:38:00", "ini_interval": 1291, "fin_interval": 1298, "duracion": 7}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-05T23:39:00", "end_time": "2024-07-05T23:40:00", "ini_interval": 1299, "fin_interval": 1300, "duracion": 1}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-05T23:41:00", "end_time": "2024-07-06T01:03:00", "ini_interval": 1301, "fin_interval": 1383, "duracion": 82}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-06T01:04:00", "end_time": "2024-07-06T01:04:00", "ini_interval": 1384, "fin_interval": 1384, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "resting", "start_time": "2024-07-06T01:05:00", "end_time": "2024-07-06T01:52:00", "ini_interval": 1385, "fin_interval": 1432, "duracion": 47}
+{"index": {"_index": "user3"}}
+{"activity": "cooking", "start_time": "2024-07-06T01:54:00", "end_time": "2024-07-06T01:54:00", "ini_interval": 1434, "fin_interval": 1434, "duracion": 0}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-07-06T01:56:00", "end_time": "2024-07-06T01:58:00", "ini_interval": 1436, "fin_interval": 1438, "duracion": 2}
+{"index": {"_index": "user3"}}
+{"activity": "toileting", "start_time": "2024-08-29T02:00:00", "end_time": "2024-08-29T02:01:00", "ini_interval": 1366, "fin_interval": 1439, "duracion": 1}

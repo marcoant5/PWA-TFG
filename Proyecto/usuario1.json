@@ -1,0 +1,66 @@
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-05T02:00:00", "end_time": "2024-07-05T05:39:00", "ini_interval": 0, "fin_interval": 219, "duracion": 219}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-07-05T05:40:00", "end_time": "2024-07-05T05:49:00", "ini_interval": 220, "fin_interval": 229, "duracion": 9}
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-05T05:50:00", "end_time": "2024-07-05T07:12:00", "ini_interval": 230, "fin_interval": 312, "duracion": 82}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T07:13:00", "end_time": "2024-07-05T07:13:00", "ini_interval": 313, "fin_interval": 313, "duracion": 0}
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-05T07:14:00", "end_time": "2024-07-05T07:18:00", "ini_interval": 314, "fin_interval": 318, "duracion": 4}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T07:19:00", "end_time": "2024-07-05T07:39:00", "ini_interval": 319, "fin_interval": 339, "duracion": 20}
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-05T07:40:00", "end_time": "2024-07-05T07:44:00", "ini_interval": 340, "fin_interval": 344, "duracion": 4}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T07:45:00", "end_time": "2024-07-05T07:46:00", "ini_interval": 345, "fin_interval": 346, "duracion": 1}
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-05T07:47:00", "end_time": "2024-07-05T07:49:00", "ini_interval": 347, "fin_interval": 349, "duracion": 2}
+{"index": {"_index": "user1"}}
+{"activity": "exit", "start_time": "2024-07-05T07:50:00", "end_time": "2024-07-05T11:39:00", "ini_interval": 350, "fin_interval": 579, "duracion": 229}
+{"index": {"_index": "user1"}}
+{"activity": "kitchen", "start_time": "2024-07-05T11:40:00", "end_time": "2024-07-05T12:00:00", "ini_interval": 580, "fin_interval": 600, "duracion": 20}
+{"index": {"_index": "user1"}}
+{"activity": "exit", "start_time": "2024-07-05T12:01:00", "end_time": "2024-07-05T14:07:00", "ini_interval": 601, "fin_interval": 727, "duracion": 126}
+{"index": {"_index": "user1"}}
+{"activity": "kitchen", "start_time": "2024-07-05T14:08:00", "end_time": "2024-07-05T14:09:00", "ini_interval": 728, "fin_interval": 729, "duracion": 1}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-07-05T14:10:00", "end_time": "2024-07-05T14:13:00", "ini_interval": 730, "fin_interval": 733, "duracion": 3}
+{"index": {"_index": "user1"}}
+{"activity": "shower", "start_time": "2024-07-05T14:14:00", "end_time": "2024-07-05T14:23:00", "ini_interval": 734, "fin_interval": 743, "duracion": 9}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T14:24:00", "end_time": "2024-07-05T14:44:00", "ini_interval": 744, "fin_interval": 764, "duracion": 20}
+{"index": {"_index": "user1"}}
+{"activity": "kitchen", "start_time": "2024-07-05T14:45:00", "end_time": "2024-07-05T14:59:00", "ini_interval": 765, "fin_interval": 779, "duracion": 14}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T15:00:00", "end_time": "2024-07-05T16:43:00", "ini_interval": 780, "fin_interval": 883, "duracion": 103}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-07-05T16:44:00", "end_time": "2024-07-05T16:52:00", "ini_interval": 884, "fin_interval": 892, "duracion": 8}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T16:53:00", "end_time": "2024-07-05T17:53:00", "ini_interval": 893, "fin_interval": 953, "duracion": 60}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-07-05T17:54:00", "end_time": "2024-07-05T18:02:00", "ini_interval": 954, "fin_interval": 962, "duracion": 8}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T18:03:00", "end_time": "2024-07-05T20:24:00", "ini_interval": 963, "fin_interval": 1104, "duracion": 141}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T20:25:00", "end_time": "2024-07-05T20:25:00", "ini_interval": 1105, "fin_interval": 1105, "duracion": 0}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T20:26:00", "end_time": "2024-07-05T20:37:00", "ini_interval": 1106, "fin_interval": 1117, "duracion": 11}
+{"index": {"_index": "user1"}}
+{"activity": "exit", "start_time": "2024-07-05T20:38:00", "end_time": "2024-07-05T21:34:00", "ini_interval": 1118, "fin_interval": 1174, "duracion": 56}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T21:35:00", "end_time": "2024-07-05T21:45:00", "ini_interval": 1175, "fin_interval": 1185, "duracion": 10}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T21:46:00", "end_time": "2024-07-05T21:47:00", "ini_interval": 1186, "fin_interval": 1187, "duracion": 1}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T21:48:00", "end_time": "2024-07-05T23:26:00", "ini_interval": 1188, "fin_interval": 1286, "duracion": 98}
+{"index": {"_index": "user1"}}
+{"activity": "cooking", "start_time": "2024-07-05T23:27:00", "end_time": "2024-07-05T23:27:00", "ini_interval": 1287, "fin_interval": 1287, "duracion": 0}
+{"index": {"_index": "user1"}}
+{"activity": "resting", "start_time": "2024-07-05T23:28:00", "end_time": "2024-07-06T00:34:00", "ini_interval": 1288, "fin_interval": 1354, "duracion": 66}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-07-06T00:35:00", "end_time": "2024-07-06T00:43:00", "ini_interval": 1355, "fin_interval": 1363, "duracion": 8}
+{"index": {"_index": "user1"}}
+{"activity": "sleep", "start_time": "2024-07-06T00:44:00", "end_time": "2024-07-06T01:59:00", "ini_interval": 1364, "fin_interval": 1439, "duracion": 75}
+{"index": {"_index": "user1"}}
+{"activity": "toileting", "start_time": "2024-08-29T02:00:00", "end_time": "2024-08-29T02:01:00", "ini_interval": 1366, "fin_interval": 1439, "duracion": 1}
